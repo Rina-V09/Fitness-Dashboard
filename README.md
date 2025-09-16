@@ -71,7 +71,7 @@ fitness-dashboard/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fitness-dashboard.git
+   git clone https://github.com/Rina-V09/fitness-dashboard.git
 2.Open the Power BI file (gym_dashboard.pbix) in Power BI Desktop.
 3.Explore different pages of the dashboard.
 4.Load/refresh the dataset (Dataset.xlsx) if needed.
