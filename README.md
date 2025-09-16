@@ -31,7 +31,7 @@ The dataset used (`Dataset.xlsx`) contains information such as:
 ---
 
 ## 🖼️ Dashboard Preview
-![DashBoard](assets/calculator.png)
+![DashBoard](assets/DashBoard.png)
 
 ---
 
@@ -59,6 +59,33 @@ fitness-dashboard/
 │ ├── calculator.png
 │ └── menu.png
 | └── DashBoard.png
+|
+├── docs/ # Documentation
+│ └── dashboard_overview.md
 │
 └── README.md # Project documentation
 
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/fitness-dashboard.git
+2.Open the Power BI file (gym_dashboard.pbix) in Power BI Desktop.
+3.Explore different pages of the dashboard.
+4.Load/refresh the dataset (Dataset.xlsx) if needed.
+
+---
+
+## 📌 Future Improvements
+
+Add predictive analytics for membership growth.
+
+Automate dataset refresh from an external database.
+
+Deploy interactive reports via Power BI Service.
+
+---
+
+💡 Contributions, feedback, and suggestions are welcome!
